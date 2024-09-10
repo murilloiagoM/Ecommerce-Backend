@@ -1,6 +1,6 @@
 API Node.js com Fastify
 
-Esta é uma API construída com Node.js e Fastify. O objetivo é fornecer um backend eficiente para operações CRUD (Create, Read, Update, Delete) utilizando um banco de dados MySQL.
+Api construída com Node.js e Fastify. O objetivo é fornecer um backend eficiente para operações CRUD (Create, Read, Update, Delete) utilizando um banco de dados MySQL.
 
 Utilização
 
