@@ -2,6 +2,8 @@ API Node.js com Fastify
 
 Api construída com Node.js e Fastify. O objetivo é fornecer um backend eficiente para operações CRUD (Create, Read, Update, Delete) utilizando um banco de dados MySQL.
 
+Video demonstrativo: https://drive.google.com/file/d/1W61HruWLKeB61duIYmPn9hQoq1Uybh-D/view?usp=sharing
+
 Utilização
 
 Criar uma base de dados utilizando MySQL denominada servidornode e importar o arquivo servidornode.sql que está na raiz do projeto. Pode ser necessário alterar a string de conexão do fastifyMysql no arquivo server.js: connectionString: 'mysql://root@localhost/servidornode';
